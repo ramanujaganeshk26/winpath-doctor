@@ -35,3 +35,6 @@ python -m winpath_doctor.cli --export-ps
 ```bash
 python -m unittest discover tests
 ```
+
+---
+_This project was scaffolded with the help of an AI agent._
